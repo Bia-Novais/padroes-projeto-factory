@@ -1,6 +1,6 @@
 # Atividade: Padrões de Projeto (Factory Method e Abstract Factory)
 
-**Integrantes da Dupla:** Ana Beatriz Novais Pereira | Isabelle 
+**Integrantes da Dupla:** Ana Beatriz Novais Pereira | Isabelle Gomes de Souza Andrade
 
 ---
 
