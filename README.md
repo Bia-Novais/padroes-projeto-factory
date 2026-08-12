@@ -28,7 +28,7 @@ classDiagram
     }
 
     class Sedan {
-        <<interface>>
+        <interface>
         +exibirPortaMalas()
     }
 
