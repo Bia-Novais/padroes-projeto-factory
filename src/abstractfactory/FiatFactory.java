@@ -1,5 +1,9 @@
 package abstractfactory;
 
+/**
+ * Fábrica Concreta - Família Fiat
+ * Implementa a MontadoraFactory retornando apenas modelos pertencentes à Fiat.
+ */
 public class FiatFactory implements MontadoraFactory {
     @Override
     public Sedan criarSedan() {
